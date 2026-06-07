@@ -1,6 +1,6 @@
 # Hi, I'm Timeo
 
-Fourth-year student studying International Relations and Economics with a minor in Data Science. I'm interested in using data storytelling to make complex policy questions more accessible.
+Fourth-year student studying International Relations and Economics with a minor in Data Science. I'm interested in using data storytelling to make complex policy questions more accessible. Currently exploring monetary data + public health datasets.
 
 ---
 
