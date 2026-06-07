@@ -19,10 +19,10 @@ Fourth-year student studying International Relations and Economics with a minor 
 An interactive dashboard mapping air quality trends across South American cities using OpenAQ open data. Ask me about it!
 
 ## Recent projects
-| Status | Project | Stack |
-|--------|---------|-------|
-| ✅ Live | [Green development project] | Plotly · Streamlit |
-| 🔄 In progress | Air quality dashboard| BERT · HuggingFace |
+| Status | Project |
+|--------|---------|
+| ✅ Live | [Green development project] |
+| 🔄 In progress | Air quality dashboard|
 
 ## Stats
 ![Timeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timeo-Coletta-data&show_icons=true&theme=default&hide_border=true)
