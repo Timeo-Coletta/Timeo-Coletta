@@ -23,4 +23,4 @@ An interactive dashboard mapping air quality trends across South American cities
 | 🔄 In progress | Air quality dashboard|
 
 ## Stats
-![Timeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=timeo-coletta&show_icons=true&theme=default&hide_border=true)
+![Timeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timeo-Coletta&show_icons=true&theme=default&hide_border=true)
