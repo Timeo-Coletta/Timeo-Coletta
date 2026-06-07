@@ -19,7 +19,7 @@ An interactive dashboard mapping air quality trends across South American cities
 ## Recent projects
 | Status | Project |
 |--------|---------|
-| ✅ Live | [Green development project] |
+| ✅ Live | Green development project|
 | 🔄 In progress | Air quality dashboard|
 
 ## Stats
